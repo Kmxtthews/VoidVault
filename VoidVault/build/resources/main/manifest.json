@@ -1,0 +1,13 @@
+{
+  "Group": "com.saladass",
+  "Name": "VoidVault",
+  "Version": "1.0.0",
+  "Main": "com.saladass.plugin.VoidVault",
+  "IncludesAssetPack": true,
+  "Description": "Command activated personal vault.",
+  "Authors": [
+    {
+      "Name": "SaladAss"
+    }
+  ]
+}
